@@ -1,2 +1,3 @@
 # myresume
-My Resume app
+My Resume app  
+Graduation project  
